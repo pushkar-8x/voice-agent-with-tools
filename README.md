@@ -70,6 +70,4 @@ The server listens on `localhost:5000` and expects Twilio WebSocket events. It u
 - The current implementation uses an in-memory database, so orders are lost when the application stops.
 - Ensure your Deepgram API key is valid and the environment is activated before running.
 
-## License
 
-Add your preferred license information here.
